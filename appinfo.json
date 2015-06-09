@@ -1,0 +1,54 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Cheeseypi App Development",
+    "longName": "Motorola Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/MotoThumbnail.png",
+                "menuIcon": true,
+                "name": "Thumbnail",
+                "type": "png"
+            },
+            {
+                "file": "images/motologo.png",
+                "name": "BANNER",
+                "type": "png"
+            },
+            {
+                "file": "images/Background Banner BW.png",
+                "name": "LOWER_BANNER",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "MAIN_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/MotorolaScreentype.ttf",
+                "name": "Motorola_ScreenType_21",
+                "type": "font"
+            },
+            {
+                "file": "fonts/MotorolaScreentype.ttf",
+                "name": "Motorola_ScreenType_42",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "MotoFace",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "0a15885d-ddd8-4bb6-b0bc-4d442072804e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
